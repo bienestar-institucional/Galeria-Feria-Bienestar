@@ -24,12 +24,11 @@ body {
 
 
 
-.animate__animated {
+.animate__slideInLeft {
     
-      animation-duration: 8s;
-
- }
-  
+  animation-duration: 5s; /* Ajusta el valor según tu preferencia */
+    
+}
 
   
 
