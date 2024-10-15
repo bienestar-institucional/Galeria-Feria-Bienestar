@@ -24,10 +24,9 @@ body {
 
 
 
-.animate__slideInLeft {
+.animate__animated.animate__slideInLeft {
     
-  animation-duration: 12s; /* Ajusta el valor según tu preferencia */
-    
+    animation-duration: 12s; /* Cambia el valor para hacerla más lenta o rápida */
 }
 
   
